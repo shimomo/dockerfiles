@@ -9,4 +9,4 @@ $ docker exec -it laravel composer install
 ```
 
 ## License
-The Laravel Docker Image is open source software licensed under the [MIT license](LICENSE).
+The Laravel Docker Image is open source software licensed under the [MIT license](../LICENSE).
